@@ -8,6 +8,7 @@ function App() {
 
   return (
     <h3>Mause follower</h3>
+    
   )
 }
 
